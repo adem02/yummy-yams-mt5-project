@@ -1,0 +1,1 @@
+/// <reference entities="vite/client" />

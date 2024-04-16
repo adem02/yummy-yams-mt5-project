@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+    "target": "es2016", // Set JavaScript version for the output code. ES2016 includes async/await.
+        "module": "commonjs", // Use CommonJS for module loading, suitable for Node.js.
+        "rootDir": "./src", // The root directory of the source files.
+        "baseUrl": "./src", // Base directory to resolve non-relative module names.
+        "outDir": "./build", // The output directory for the compiled JavaScript files.
+        "esModuleInterop": true, // Enables compatibility with non-ES module systems.
+        "forceConsistentCasingInFileNames": true, // Enforces file name casing to be consistent.
+        "strictNullChecks": true, // Enables strict null checking.
+        "strictBindCallApply": true, // Enforces that bind, call, and apply are used correctly.
+        "experimentalDecorators": true, // Enables experimental support for decorators.
+        "emitDecoratorMetadata": true, // Emits metadata for decorators.
+        "noFallthroughCasesInSwitch": false, // Allows fall through cases in switch statements.
+        "skipDefaultLibCheck": true, // Skips checking the default library files.
+        "skipLibCheck": true, // Skips type checking of all declaration files.
+        "types": ["node", "jest"], // Specifies the entities to be included.
+        "moduleResolution": "node", // Use Node.js style module resolution.
+        "strict": true // Enables all strict type checking options.
+},
+    "include": ["src/**/*"], // Include all files in the src directory.
+    "exclude": ["node_modules"] // Exclude the node_modules directory.
+}

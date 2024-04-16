@@ -1,0 +1,59 @@
+[
+  {
+    "_id": {
+      "$oid": "66455c7aac2364796ea49d08"
+    },
+    "email": "demahmed02@gmail.com",
+    "username": "adem02",
+    "password": "$2b$10$qbgqo8eOknvTIlQNXtzZKuTpDiFdAfvXb4UMGpP9ZMCNpW0qz.ERG",
+    "nbOfTriesLeft": {
+      "$numberInt": "3"
+    },
+    "pastriesWon": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1715821690442"
+      }
+    },
+    "__v": {
+      "$numberInt": "22"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645d077e2cffdbaa1846c77"
+    },
+    "email": "goku@gmail.com",
+    "username": "goku",
+    "password": "$2b$10$D9Uijow3Jjt.Mhg4S4.wJum6Ktz70QIjROdO46SPaeMTCXcTlhgVi",
+    "nbOfTriesLeft": {
+      "$numberInt": "3"
+    },
+    "pastriesWon": [],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1715851383372"
+      }
+    },
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {"_id":{"$oid":"6645d0a6e2cffdbaa1846c7d"},"email":"sasuke@gmail.com","username":"sasuke","password":"$2b$10$JxKcOHT5xaQwvv1pY3h7Ae/e5kxes6LhCrs/hb7dbxEPgHegkDA72","nbOfTriesLeft":{"$numberInt":"3"},"pastriesWon":[],"createdAt":{"$date":{"$numberLong":"1715851430850"}},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645d0b4e2cffdbaa1846c80"},"email":"sofiane@gmail.com","username":"sofiane","password":"$2b$10$qBraJD4GEPDrkL8eE.LLAuYk0NreovyBXAAWhRx76XSUmzabQ3YE.","nbOfTriesLeft":{"$numberInt":"3"},"pastriesWon":[],"createdAt":{"$date":{"$numberLong":"1715851444145"}},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645d0fde2cffdbaa1846c83"},"email":"killua@gmail.com","username":"killua","password":"$2b$10$ZgAoPRzPiO4ziN2MAMfpv./oIHF2vh46SvFqZRiZyGTqQc5M.RA9y","nbOfTriesLeft":{"$numberInt":"3"},"pastriesWon":[],"createdAt":{"$date":{"$numberLong":"1715851517963"}},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645d105e2cffdbaa1846c86"},"email":"meruem@gmail.com","username":"meruem","password":"$2b$10$tPq2G4cN9YRz6v0cpnw6PO.OgRSbke8BIuodaDG4uoAT1H.6ek0dq","nbOfTriesLeft":{"$numberInt":"3"},"pastriesWon":[],"createdAt":{"$date":{"$numberLong":"1715851525352"}},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645d114e2cffdbaa1846c89"},"email":"netero@gmail.com","username":"netero","password":"$2b$10$VWX.ojq6.PBrUC/m9c5Fju1zZryuTU147WWBSkfRaUkRoQTVTjBqq","nbOfTriesLeft":{"$numberInt":"3"},"pastriesWon":[],"createdAt":{"$date":{"$numberLong":"1715851540011"}},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645d089e2cffdbaa1846c7a"},"email":"gohan@gmail.com","username":"gohan","password":"$2b$10$r.9b7MJasw6RK6Ff6/eUI.W2Ws5UMXzepkAGR3EHGtJUnn4NDEWCS","nbOfTriesLeft":{"$numberInt":"3"},"pastriesWon":[],"createdAt":{"$date":{"$numberLong":"1715851401421"}},"__v":{"$numberInt":"0"}}
+]
+
+[
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c1"},"name":"Fondant suprême","image":"fondant.jpeg","stock":{"$numberInt":"4"},"quantityWon":{"$numberInt":"0"},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c2"},"name":"Cake tout Chocolat","image":"cake-choco.jpeg","stock":{"$numberInt":"3"},"quantityWon":{"$numberInt":"0"},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c3"},"name":"Cake Framboise chocolat","image":"cake-framboise.jpeg","stock":{"$numberInt":"4"},"quantityWon":{"$numberInt":"0"},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c3"},"name":"Cake Framboise chocolat","image":"cake-framboise.jpeg","stock":{"$numberInt":"4"},"quantityWon":{"$numberInt":"0"},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c5"},"name":"Boules vanille sur fondant au chocolat","image":"glaces-vanille.jpeg","stock":{"$numberInt":"1"},"quantityWon":{"$numberInt":"1"},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c6"},"name":"Éclair au chocolat","image":"eclair.jpeg","stock":{"$numberInt":"4"},"quantityWon":{"$numberInt":"1"},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c7"},"name":"Tarte poire chocolat","image":"tarte-poire.jpeg","stock":{"$numberInt":"5"},"quantityWon":{"$numberInt":"0"},"__v":{"$numberInt":"0"}},
+  {"_id":{"$oid":"6645c6e9723fb33f840c92c8"},"name":"Banana split cerise","image":"banana-split.jpeg","stock":{"$numberInt":"3"},"quantityWon":{"$numberInt":"0"},"__v":{"$numberInt":"0"}}
+]
